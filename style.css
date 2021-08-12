@@ -117,7 +117,7 @@ font-family: "Lexend Deca", sans-serif;
   }
 
   .container .card ul {
-    padding-left: 20px;
+    padding: 20px;
     display: flex;
   }
   .container .card ul li {
