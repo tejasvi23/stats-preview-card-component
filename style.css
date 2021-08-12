@@ -95,7 +95,7 @@ font-family: "Lexend Deca", sans-serif;
 @media (min-width: 768px){
     .container{
         display: flex;
-        flex-direction: row-reverse;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
         padding: 0;
